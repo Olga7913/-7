@@ -1,0 +1,15 @@
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\bin\Debug\net6.0\Task47.exe
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\bin\Debug\net6.0\Task47.deps.json
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\bin\Debug\net6.0\Task47.dll
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\bin\Debug\net6.0\Task47.pdb
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\obj\Debug\net6.0\Task47.dll
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\obj\Debug\net6.0\refint\Task47.dll
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\obj\Debug\net6.0\Task47.pdb
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
+D:\Обучение\Git\HW_24.08.2022\HW\Task47\obj\Debug\net6.0\ref\Task47.dll
